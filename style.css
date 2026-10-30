@@ -4,7 +4,7 @@
 
 .hoverable {
   position: relative;
-  border: 5px solid white
+  border: 5px solid white;
 }
 
 .hoverable>.hoverable__tooltip {
